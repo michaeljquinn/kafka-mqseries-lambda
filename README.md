@@ -14,6 +14,9 @@ This project has 4 objectives
 
 The following visualises the high level componentry
 
+![alt text](https://github.com/michaeljquinn/kafka-mqseries-lambda/blob/master/doc/images/high_level_view.png_
+
+
 
 
 
