@@ -1,3 +1,5 @@
+
+# Kafka/MQ Engine
 This project has 4 objectives
 
 1 - Utilise Kafka to ingest mainframe based cobol copybook defined records
@@ -9,6 +11,9 @@ This project has 4 objectives
 4 - Potentially (??) host the transformations as AWS lambda functions
 
 5 - Examine how we can reduce the latency of all of the above to provide a near as possible real time experience
+
+The following visualises the high level componentry
+
 
 
 
